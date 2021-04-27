@@ -17,7 +17,7 @@ import com.jiggy.diceroller.databinding.FragmentSecondBinding
 class SecondFragment : Fragment() {
 
     private lateinit var binding:FragmentSecondBinding
-
+//done
     override fun onCreateView(
             inflater: LayoutInflater, container: ViewGroup?,
             savedInstanceState: Bundle?
